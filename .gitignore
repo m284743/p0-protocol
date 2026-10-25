@@ -1,0 +1,6 @@
+node_modules/
+config.json
+strains_cache.json
+leaderboard_state.json
+*.log
+dbg*.cjs
