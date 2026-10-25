@@ -1,0 +1,11 @@
+{
+  "name": "p0-mcp",
+  "private": true,
+  "version": "1.8.0",
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "dependencies": {
+    "ethers": "^6.13.4"
+  }
+}
